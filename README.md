@@ -4,6 +4,8 @@ This repository contains all the data and scripts required to fully reproduce al
 
 Data and Code also available on Zenodo:
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7708578.svg)](https://doi.org/10.5281/zenodo.7708578)
+
 Getting Started
 ---------------
 
